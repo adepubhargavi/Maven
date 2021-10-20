@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.132.129:8081/repository/Cloudgen-Release/</url>
+            <url>http://192.168.137.140:8081/repository/Shavya-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.132.129:8081/repository/Cloudgen-Snap/</url>
+            <url>http://192.168.137.140:8081/repository/Shavya-Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
